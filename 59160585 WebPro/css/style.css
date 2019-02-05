@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+body{
+    background-color: #e9edf2;
+    
+}
+
+.content{
+   margin-left: 20px;
+   margin-right: 20px;
+    background-color: white;
+    font-family: 'Kanit', sans-serif;
+    margin-top: 20px;
+    min-height: 30vh;
+    padding: 20px;
+    margin-left: 35%;
+    margin-right: 35%;
+   
+}
+
+/* button */
+.btn-user{
+    color: white;
+}
+
+.btn-user:hover{
+    color: white;
+}
+
+.btn.focus, .btn:focus {
+    box-shadow : none;
+}
+/* end button */
+
+
+/* text */
+.title{
+    font-size: 18px;
+    color: #009788;
+}
+
+.submitBT{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.random{
+    width: 80%;
+    border: 1px solid black;
+}
+/* end text */
+
+.locationBT{
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.customer{
+    padding-left: 10%;
+    padding-right: 10%;
+}
